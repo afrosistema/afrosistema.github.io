@@ -8,11 +8,11 @@
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon/fonts/icomoon.eot?g7rfsn');
-  src:  url('../fonts/icomoon/fonts/icomoon.eot?g7rfsn#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon/fonts/icomoon.ttf?g7rfsn') format('truetype'),
-    url('../fonts/icomoon/fonts/icomoon.woff?g7rfsn') format('woff'),
-    url('../fonts/icomoon/fonts/icomoon.svg?g7rfsn#icomoon') format('svg');
+  src:  url('../fonts/icomoon/fonts/icomoon.eot?wimrw1');
+  src:  url('../fonts/icomoon/fonts/icomoon.eot?wimrw1#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/fonts/icomoon.ttf?wimrw1') format('truetype'),
+    url('../fonts/icomoon/fonts/icomoon.woff?wimrw1') format('woff'),
+    url('../fonts/icomoon/fonts/icomoon.svg?wimrw1#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -32,18 +32,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-SDL_Mod:before {
-  content: "\e902";
+.icon-SDL_Min:before {
+  content: "\e900";
   color: #173556;
 }
-.icon-gamemaker_logo:before {
-  content: "\e900";
-  color: #8bc34a;
-}
-.icon-qt-transp:before {
+.icon-SDL_Monocolor:before {
   content: "\e901";
+  color: #173556;
+}
+.icon-gm_canvasresized:before {
+  content: "\e902";
+  color: #8bc34a;
+  font-size: 75%;
+}
+.icon-qt-monocolor:before {
+  content: "\e903";
   color: #41cd52;
+  font-size: 85%;
+}
+.icon-SDL_Mod:before {
+  content: "\e904";
+  color: #173556;
+  font-size: 80%;
 }
 .icon-unity-master-black:before {
-  content: "\e906";
+  content: "\e905";
+  font-size: 90%;
 }
