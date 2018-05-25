@@ -35,10 +35,12 @@
 .icon-SDL_Min:before {
   content: "\e900";
   color: #173556;
+  font-size: 50%;
 }
 .icon-SDL_Monocolor:before {
   content: "\e901";
   color: #173556;
+  font-size: 80%;
 }
 .icon-gm_canvasresized:before {
   content: "\e902";
@@ -57,5 +59,6 @@
 }
 .icon-unity-master-black:before {
   content: "\e905";
+  color: black;
   font-size: 90%;
 }
