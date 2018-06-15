@@ -19,3 +19,10 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+# Project descriptions
+project_AG: American Girl World is a game by American Girl Publishing Inc. It is a visual novel taking place in the world of American Girl, the popular line of dolls of Mattel.
+project_HempInc: Part of the team that developed American Girl World and Hemp Inc, two commercial mobile games for Android and iOS.
+project_S2PEditor: Game engine and GUI for the development of 2D platform games in Windows. Built using C++, SDL and Qt.
+project_ThinkB4: My first Ludum Dare entry is a micro-platformer where jumping costs power. It has four levels and four different endings. I didn’t have enough time to design the levels properly so the game is extremely easy. Actually it’s more an idea than a game, but this is what LD is about, right?
+project_Epione: Cofounder of e-pione, startup with the aim of finding e-Health solutions for the diagnosis of neurological diseases, specially Mild Cognitive Impairment and Alzheimer's Disease.
