@@ -7,7 +7,7 @@ description: Aarón Ojeda's personal site
 # User settings
 username: Aarón Ojeda
 user_description: Self-motivated, analytical and creative software engineer. One way or another, I have been linked to video games professionally, personally or academically during my whole life. Needless to say, I love them. My thesis was about 2D platformers development with C++ and SDL. Leaving aside video games, I have experience in data science and a strong knowledge on basketball.
-user_title: Game Developer
+user_title: Software Engineer | Game Developer
 email: aaron.ojeda.reyes@gmail.com
 # twitter_username: lorem_ipsum
 github_username:  afrosistema
@@ -21,8 +21,8 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 
 # Project descriptions
-project_AG: American Girl World is a game by American Girl Publishing Inc. It is a visual novel taking place in the world of American Girl, the popular line of dolls of Mattel.
-project_HempInc: Part of the team that developed American Girl World and Hemp Inc, two commercial mobile games for Android and iOS.
-project_S2PEditor: Game engine and GUI for the development of 2D platform games in Windows. Built using C++, SDL and Qt.
-project_ThinkB4: My first Ludum Dare entry is a micro-platformer where jumping costs power. It has four levels and four different endings. I didn’t have enough time to design the levels properly so the game is extremely easy. Actually it’s more an idea than a game, but this is what LD is about, right?
-project_Epione: Cofounder of e-pione, startup with the aim of finding e-Health solutions for the diagnosis of neurological diseases, specially Mild Cognitive Impairment and Alzheimer's Disease.
+project_AG: American Girl World is a visual novel taking place in the world of American Girl, the popular line of dolls of Mattel.
+project_HempInc: Hemp Inc - Weed & Marijuana Business Game is an simulation game where you strat from scratch whith the goal of building your own cannabis empire.
+project_S2PEditor: Game engine and GUI for the development of 2D platform games in Windows. Built using C++, SDL and Qt. S2PEditor stands for SDL 2D Platformer Editor.
+project_ThinkB4: Think before you jump is my entry for Ludum Dare 39 game jam. It is a micro-platformer where jumping costs power. It has four levels and four different endings.
+project_Epione: Co-founder of e-pione, startup with the aim of finding machine learning solutions for the diagnosis of neurological diseases.

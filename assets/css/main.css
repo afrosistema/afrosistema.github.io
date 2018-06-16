@@ -62,6 +62,7 @@
   }
   .icon-unity-master-black:before {
     content: "\e905";
+    color: black;
   }
 
   /* Adjusting size of icomoon custom icoms */
@@ -86,7 +87,7 @@
 
   .toolsused {
     text-align:left;
-    font-size:25px;
+    font-size:30px;
     margin-bottom:30px;
     /* display:flex;
     flex-direction:row;
