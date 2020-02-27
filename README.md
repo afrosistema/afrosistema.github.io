@@ -1,5 +1,5 @@
 
-This theme is based on this one by Nathan Randecker. All credits go to him.
+This theme is based on [this one](https://github.com/nrandecker/particle) by Nathan Randecker. All credits go to him.
 
 ## License
 
